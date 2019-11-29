@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "854107644393",
+    "firebase_url": "https://uni-eventz-teste.firebaseio.com",
+    "project_id": "uni-eventz-teste",
+    "storage_bucket": "uni-eventz-teste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854107644393:android:fda4ffeed8222c8be0ab78",
+        "android_client_info": {
+          "package_name": "com.example.uni_eventz_teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854107644393-k5hq4b9ds07ll2cf3ohd05islqm4dc2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbnavFfuHlsAc3n7kEfRcxx2f6vmwyYi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854107644393-k5hq4b9ds07ll2cf3ohd05islqm4dc2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
